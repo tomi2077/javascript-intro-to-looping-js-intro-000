@@ -20,15 +20,9 @@ function whileLoop(n) {
 
 function doWhileLoop(array){
   do {
-    array.pop;
-  }
+    array.pop()}
+    
   while (array.length > 0)
 }
-
-do {
-  console.log("doo-bee-doo-bee-doo");
-  incrementVariable();
-} while (i < 5);
-```
 
 
